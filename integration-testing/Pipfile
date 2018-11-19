@@ -9,3 +9,4 @@ pytest = "*"
 delayed-assert = "*"
 
 [dev-packages]
+python-language-server = "*"
